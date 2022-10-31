@@ -1,0 +1,14 @@
+.banner{
+    background-color:aqua;
+    width:100px;
+    height:200px;
+    margin-bottom:50px;
+}
+
+
+.banner-text{
+top:80px;
+left:80px;
+position:absolute;
+transform:transform;
+}
